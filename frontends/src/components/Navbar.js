@@ -12,7 +12,4 @@ const NavBar = () => {
   );
 };
 
-console.log('Testing');
-console.log('Testing');
-
 export default NavBar;
